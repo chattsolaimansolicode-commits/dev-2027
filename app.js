@@ -8,3 +8,4 @@ a = b;
 b = temp;
 
 console.log("Après l'échange : a =", a, ", b =", b);
+
